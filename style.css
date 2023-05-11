@@ -12,7 +12,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #FFFFFF;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Arvo', serif;
 	font-size: 14px;
 	color: #3B3B3B;
 }
@@ -148,7 +148,7 @@ a:hover {
 	border: 1px solid #D7D0C0;
 	padding: 10px;
 	text-transform: lowercase;
-	font: normal 14px Arial, Helvetica, sans-serif;
+	font: normal 14px 'Arvo', serif;
 	color: #454545;
 }
 
@@ -631,7 +631,7 @@ td, th {
   margin-top: -40px;
   display:none;
 }
-#myDIV4, #myDIV6,#myDIV7, #myDIV8, #myDIV9,#myDIV5,#myDIV10, #myDIV11, #myDIV12, #myDIV13, #myDIV14, #myDIV16, #myDIV18 {
+#myDIV4, #myDIV6,#myDIV7, #myDIV8, #myDIV9,#myDIV5,#myDIV10, #myDIV11, #myDIV12, #myDIV13, #myDIV14, #myDIV15,  #myDIV17,  #myDIV18, #myDIV16, #myDIV19 {
   width: 100%;
   padding: 0px 0;
   margin-top: -40px;
@@ -645,7 +645,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -658,7 +658,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -672,7 +672,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -685,7 +685,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -698,7 +698,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -711,7 +711,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -724,7 +724,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -737,7 +737,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -750,7 +750,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -763,7 +763,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -776,7 +776,7 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
@@ -789,7 +789,111 @@ td, th {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 14px;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi11{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi13{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi14{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi15{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi16{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi17{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi18{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
+  background-color: white;
+  float:right;
+  margin-top:-5px;
+}
+#hoi19{
+  display:block;
+  cursor: pointer;
+  padding: 3px;
+  width: 160px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 10px;
   background-color: white;
   float:right;
   margin-top:-5px;
